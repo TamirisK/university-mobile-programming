@@ -1,0 +1,51 @@
+com.example.mobiletestapp-lifecycle-viewmodel-2.6.1-0 /Users/tamirisabildayeva/.gradle/caches/transforms-4/085169764ecd447af360c67c8d06b53e/transformed/lifecycle-viewmodel-2.6.1/res
+com.example.mobiletestapp-savedstate-ktx-1.2.1-1 /Users/tamirisabildayeva/.gradle/caches/transforms-4/11589f1ddd3e0f2581bfb9325a5a3a0e/transformed/savedstate-ktx-1.2.1/res
+com.example.mobiletestapp-annotation-experimental-1.3.0-2 /Users/tamirisabildayeva/.gradle/caches/transforms-4/11ead3abdac94bbda272ac28838ef4ad/transformed/annotation-experimental-1.3.0/res
+com.example.mobiletestapp-fragment-1.6.0-3 /Users/tamirisabildayeva/.gradle/caches/transforms-4/1728aa9e64c31bb7dfec4ed071722cf4/transformed/fragment-1.6.0/res
+com.example.mobiletestapp-navigation-common-2.6.0-4 /Users/tamirisabildayeva/.gradle/caches/transforms-4/22403f7d2d83f64cc45d88902cafe12f/transformed/navigation-common-2.6.0/res
+com.example.mobiletestapp-navigation-ui-2.6.0-5 /Users/tamirisabildayeva/.gradle/caches/transforms-4/252ffad833d0e18b0b11bad35beda87e/transformed/navigation-ui-2.6.0/res
+com.example.mobiletestapp-navigation-fragment-2.6.0-6 /Users/tamirisabildayeva/.gradle/caches/transforms-4/25ddc89915eae0ba14b3bf0a4ae313ea/transformed/navigation-fragment-2.6.0/res
+com.example.mobiletestapp-startup-runtime-1.1.1-7 /Users/tamirisabildayeva/.gradle/caches/transforms-4/29853bff0d58e826446b69f80b1e199e/transformed/startup-runtime-1.1.1/res
+com.example.mobiletestapp-profileinstaller-1.3.0-8 /Users/tamirisabildayeva/.gradle/caches/transforms-4/3995a6fbd1113036c67cdd4f14b5b7fe/transformed/profileinstaller-1.3.0/res
+com.example.mobiletestapp-activity-1.8.0-9 /Users/tamirisabildayeva/.gradle/caches/transforms-4/4a67cfbadd7c4173cc79d53436de785f/transformed/activity-1.8.0/res
+com.example.mobiletestapp-appcompat-1.6.1-10 /Users/tamirisabildayeva/.gradle/caches/transforms-4/50fddeaf22fe3788edf39e0481f76e91/transformed/appcompat-1.6.1/res
+com.example.mobiletestapp-window-1.0.0-11 /Users/tamirisabildayeva/.gradle/caches/transforms-4/569ee297c99937ac25491c762cb4af8a/transformed/window-1.0.0/res
+com.example.mobiletestapp-navigation-fragment-ktx-2.6.0-12 /Users/tamirisabildayeva/.gradle/caches/transforms-4/587dec9eb4f2f079ba096367ee67f833/transformed/navigation-fragment-ktx-2.6.0/res
+com.example.mobiletestapp-lifecycle-runtime-ktx-2.6.1-13 /Users/tamirisabildayeva/.gradle/caches/transforms-4/67d954ebf7018a3e114275807b70c3ee/transformed/lifecycle-runtime-ktx-2.6.1/res
+com.example.mobiletestapp-fragment-ktx-1.6.0-14 /Users/tamirisabildayeva/.gradle/caches/transforms-4/6875eca68b758a8d46370717da0f7939/transformed/fragment-ktx-1.6.0/res
+com.example.mobiletestapp-navigation-ui-ktx-2.6.0-15 /Users/tamirisabildayeva/.gradle/caches/transforms-4/69ef8f5510ea466a266a8e5407741402/transformed/navigation-ui-ktx-2.6.0/res
+com.example.mobiletestapp-core-ktx-1.10.1-16 /Users/tamirisabildayeva/.gradle/caches/transforms-4/6dd29c62b5acfb0edfe2e560c7ba2873/transformed/core-ktx-1.10.1/res
+com.example.mobiletestapp-lifecycle-runtime-2.6.1-17 /Users/tamirisabildayeva/.gradle/caches/transforms-4/7368c4a5bcb53172b46b47d60d3ed04a/transformed/lifecycle-runtime-2.6.1/res
+com.example.mobiletestapp-appcompat-resources-1.6.1-18 /Users/tamirisabildayeva/.gradle/caches/transforms-4/752ab66e5e1a0767e5b48b848bfb6615/transformed/appcompat-resources-1.6.1/res
+com.example.mobiletestapp-lifecycle-process-2.6.1-19 /Users/tamirisabildayeva/.gradle/caches/transforms-4/770722308180437c5015f6ae80b90aba/transformed/lifecycle-process-2.6.1/res
+com.example.mobiletestapp-drawerlayout-1.1.1-20 /Users/tamirisabildayeva/.gradle/caches/transforms-4/7dd0fe12b76e869605d1e3ec7ea30d0f/transformed/drawerlayout-1.1.1/res
+com.example.mobiletestapp-navigation-runtime-ktx-2.6.0-21 /Users/tamirisabildayeva/.gradle/caches/transforms-4/7e259acaecf359d9c5f8748a6d9ec603/transformed/navigation-runtime-ktx-2.6.0/res
+com.example.mobiletestapp-lifecycle-livedata-2.6.1-22 /Users/tamirisabildayeva/.gradle/caches/transforms-4/85ba45ce6cfae3f55c32a8f922d40efc/transformed/lifecycle-livedata-2.6.1/res
+com.example.mobiletestapp-material-1.10.0-23 /Users/tamirisabildayeva/.gradle/caches/transforms-4/8806f7030e1bb48df4ffea74e0a54412/transformed/material-1.10.0/res
+com.example.mobiletestapp-navigation-common-ktx-2.6.0-24 /Users/tamirisabildayeva/.gradle/caches/transforms-4/88ed46564a215bc2b41e02a69e9688f9/transformed/navigation-common-ktx-2.6.0/res
+com.example.mobiletestapp-lifecycle-viewmodel-ktx-2.6.1-25 /Users/tamirisabildayeva/.gradle/caches/transforms-4/8a59ad5fea87db28edf05a460d794237/transformed/lifecycle-viewmodel-ktx-2.6.1/res
+com.example.mobiletestapp-slidingpanelayout-1.2.0-26 /Users/tamirisabildayeva/.gradle/caches/transforms-4/92ae7da435c8af1c0fcd48a2c18ac0c5/transformed/slidingpanelayout-1.2.0/res
+com.example.mobiletestapp-viewpager2-1.0.0-27 /Users/tamirisabildayeva/.gradle/caches/transforms-4/93523a795302eced537afadefbdf5eeb/transformed/viewpager2-1.0.0/res
+com.example.mobiletestapp-savedstate-1.2.1-28 /Users/tamirisabildayeva/.gradle/caches/transforms-4/9f0ba862598ea9a8a4eceff8af60958a/transformed/savedstate-1.2.1/res
+com.example.mobiletestapp-activity-ktx-1.8.0-29 /Users/tamirisabildayeva/.gradle/caches/transforms-4/a27c3e78b77009059321b46aeb48a857/transformed/activity-ktx-1.8.0/res
+com.example.mobiletestapp-cardview-1.0.0-30 /Users/tamirisabildayeva/.gradle/caches/transforms-4/a9ec0e873b3bfaf12117f69904bc942d/transformed/cardview-1.0.0/res
+com.example.mobiletestapp-emoji2-views-helper-1.2.0-31 /Users/tamirisabildayeva/.gradle/caches/transforms-4/ab7ff051f9dc6dd8d9e80063b3a90ba3/transformed/emoji2-views-helper-1.2.0/res
+com.example.mobiletestapp-lifecycle-livedata-core-2.6.1-32 /Users/tamirisabildayeva/.gradle/caches/transforms-4/ab9b6acd42b8537c3e830d4ba64ef2d9/transformed/lifecycle-livedata-core-2.6.1/res
+com.example.mobiletestapp-constraintlayout-2.1.4-33 /Users/tamirisabildayeva/.gradle/caches/transforms-4/ad90476c93ccdf3c01b8dcb3d4a638d1/transformed/constraintlayout-2.1.4/res
+com.example.mobiletestapp-lifecycle-livedata-core-ktx-2.6.1-34 /Users/tamirisabildayeva/.gradle/caches/transforms-4/af17cbc0fba1a150685a268ad56264cb/transformed/lifecycle-livedata-core-ktx-2.6.1/res
+com.example.mobiletestapp-core-runtime-2.2.0-35 /Users/tamirisabildayeva/.gradle/caches/transforms-4/b0f399bb90d2aed78031fb693d6438e8/transformed/core-runtime-2.2.0/res
+com.example.mobiletestapp-lifecycle-viewmodel-savedstate-2.6.1-36 /Users/tamirisabildayeva/.gradle/caches/transforms-4/c1d94ac3de459a6514fd7b7d42ddf012/transformed/lifecycle-viewmodel-savedstate-2.6.1/res
+com.example.mobiletestapp-lifecycle-livedata-ktx-2.6.1-37 /Users/tamirisabildayeva/.gradle/caches/transforms-4/c4a132d71b942973b8db19ee501acc06/transformed/lifecycle-livedata-ktx-2.6.1/res
+com.example.mobiletestapp-recyclerview-1.1.0-38 /Users/tamirisabildayeva/.gradle/caches/transforms-4/d9c88e993b8a7f8e14bb9b5244c9f664/transformed/recyclerview-1.1.0/res
+com.example.mobiletestapp-emoji2-1.2.0-39 /Users/tamirisabildayeva/.gradle/caches/transforms-4/df59cb7bdfcf013cfe5379c38e48baee/transformed/emoji2-1.2.0/res
+com.example.mobiletestapp-core-1.10.1-40 /Users/tamirisabildayeva/.gradle/caches/transforms-4/e3a0b4ed4a38458db91a8afe402724b8/transformed/core-1.10.1/res
+com.example.mobiletestapp-navigation-runtime-2.6.0-41 /Users/tamirisabildayeva/.gradle/caches/transforms-4/f5344a98cf07dacd33612207174a8f10/transformed/navigation-runtime-2.6.0/res
+com.example.mobiletestapp-coordinatorlayout-1.1.0-42 /Users/tamirisabildayeva/.gradle/caches/transforms-4/f77b59190fe28a2db87fb4cf188fa326/transformed/coordinatorlayout-1.1.0/res
+com.example.mobiletestapp-transition-1.4.1-43 /Users/tamirisabildayeva/.gradle/caches/transforms-4/fd695b8eab8aaeee15b9587e1dc42467/transformed/transition-1.4.1/res
+com.example.mobiletestapp-pngs-44 /Users/tamirisabildayeva/Projects/AndroidStudioProjects/Exercise 4/app/build/generated/res/pngs/debug
+com.example.mobiletestapp-resValues-45 /Users/tamirisabildayeva/Projects/AndroidStudioProjects/Exercise 4/app/build/generated/res/resValues/debug
+com.example.mobiletestapp-packageDebugResources-46 /Users/tamirisabildayeva/Projects/AndroidStudioProjects/Exercise 4/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.mobiletestapp-packageDebugResources-47 /Users/tamirisabildayeva/Projects/AndroidStudioProjects/Exercise 4/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.mobiletestapp-debug-48 /Users/tamirisabildayeva/Projects/AndroidStudioProjects/Exercise 4/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.mobiletestapp-debug-49 /Users/tamirisabildayeva/Projects/AndroidStudioProjects/Exercise 4/app/src/debug/res
+com.example.mobiletestapp-main-50 /Users/tamirisabildayeva/Projects/AndroidStudioProjects/Exercise 4/app/src/main/res
