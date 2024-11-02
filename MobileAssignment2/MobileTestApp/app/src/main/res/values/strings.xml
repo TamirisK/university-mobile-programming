@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MobileTestApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="add_post">add_post</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="search_posts">Search Posts</string>
+    <string name="image_preview">image_preview</string>
+    <string name="enter_caption">enter_caption</string>
+    <string name="upload_post">upload_post</string>
+    <string name="enter_username">Enter Username</string>
+</resources>
