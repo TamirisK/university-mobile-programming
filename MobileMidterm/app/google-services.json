@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "460871696225",
+    "firebase_url": "https://taskmanagement-tamirisk-default-rtdb.firebaseio.com",
+    "project_id": "taskmanagement-tamirisk",
+    "storage_bucket": "taskmanagement-tamirisk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460871696225:android:95a3daf9ff19e0329f8f20",
+        "android_client_info": {
+          "package_name": "com.taskmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpQ2b2i4ASLX07AbHTdB6dZXg0SaU7LUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
