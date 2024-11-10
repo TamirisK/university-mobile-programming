@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MobileAssignment3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_from_fragment">Hello from Fragment!</string>
+    <string name="exercise_1_creating_a_basic_fragment">Exercise 1: Creating a Basic Fragment</string>
+    <string name="exercise_2_fragment_communication">Exercise 2: Fragment Communication</string>
+    <string name="exercise_3_fragment_transactions">Exercise 3: Fragment Transactions</string>
+    <string name="exercise_4_building_a_recyclerview">Exercise 4: Building a RecyclerView</string>
+    <string name="exercise_5_item_click_handling">Exercise 5: Item Click Handling</string>
+    <string name="exercise_6_viewholder_pattern">Exercise 6: ViewHolder Pattern</string>
+    <string name="exercise_7_implementing_viewmodel">Exercise 7: Implementing ViewModel</string>
+    <string name="exercise_8_mutablelivedata_for_input_handling">Exercise 8: MutableLiveData for Input Handling</string>
+    <string name="exercise_9_data_persistence">Exercise 9: Data Persistence</string>
+    <string name="assignment_3_by_tamiris_abildayeve">Assignment №3 by Tamiris Abildayeve</string>
+    <string name="assignment_3_by_tamiris_abildayeva">Assignment 3 by Tamiris Abildayeva</string>
+    <string name="enter_text">Enter text</string>
+    <string name="submit">Submit</string>
+    <string name="submit_button">Submit button</string>
+    <string name="enter_input_text">Enter input text</string>
+</resources>

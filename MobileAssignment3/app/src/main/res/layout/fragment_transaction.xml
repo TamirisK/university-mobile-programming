@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/btnAddFragment1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Add Fragment 1"
+                android:layout_marginEnd="8dp"
+                tools:ignore="ButtonStyle,HardcodedText" />
+
+            <Button
+                android:id="@+id/btnAddFragment2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Add Fragment 2"
+                android:layout_marginEnd="8dp"
+                tools:ignore="ButtonStyle,HardcodedText" />
+
+            <Button
+                android:id="@+id/btnReplaceWithFragment1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Replace with Fragment 1"
+                android:layout_marginEnd="8dp"
+                tools:ignore="ButtonStyle,HardcodedText" />
+
+            <Button
+                android:id="@+id/btnReplaceWithFragment2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Replace with Fragment 2"
+                android:layout_marginEnd="8dp"
+                tools:ignore="ButtonStyle,HardcodedText" />
+
+            <Button
+                android:id="@+id/btnRemoveFragment1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Remove Fragment 1"
+                android:layout_marginEnd="8dp"
+                tools:ignore="ButtonStyle,HardcodedText" />
+
+            <Button
+                android:id="@+id/btnRemoveFragment2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Remove Fragment 2"
+                android:layout_marginEnd="8dp"
+                tools:ignore="ButtonStyle,HardcodedText" />
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <FrameLayout
+        android:id="@+id/fragmentContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"/>
+</LinearLayout>
